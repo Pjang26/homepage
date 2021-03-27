@@ -23,6 +23,11 @@ color: #40514E;
   bottom: 300px;
 }
 
+.sun {
+ width: 200px;
+ height: 200px;
+}
+
 h1 {
   font-size: 5.62rem;
   color: #66BFBF;
